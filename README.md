@@ -6,3 +6,5 @@ The code is divided into two different folders, one for Classes and one for Trig
 -----------------------------------------------------------------------------------------------------------------------------------------------------------                                                           
 ----17/04/2023----
 The code is now divided in three different folders. The folders **Classes** and **Triggers** are used for the main project, a Contact Tracing application, whereas the folder **Exercises** it's just for random exercises proposed during the course.
+----17/04/2023----
+Exercises folder has been deleted
